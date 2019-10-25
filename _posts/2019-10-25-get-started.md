@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Get Start
+title:  Get Started
 author: Xiang Ye
 categories: [Miscellaneous, Memo]
 ---
@@ -46,6 +46,10 @@ After step #2 you should be able to see your pages (same as the template). Next 
 - Update links to you home page, twitter, github, linkedin, etc.
 - Create/Choose your own picture used by your pages.
 - Modify template source code when it is necessary (I have to say that no template can meet expectation perfectly --  a little bit change can make it much better).
+
+**Don't spend too much time on this, theme is never the purpose**
+
+![Customize](/images/20191025-get-started/customize.png)
 
 ### **Step 4:** Post
 
