@@ -2,7 +2,8 @@
 layout: post
 title: Post Template
 author: Xiang Ye
-categories: [Miscellaneous, Template]
+description:
+categories: [Reverse Engineering, Programming, Security, Memo, Howto, Miscellaneous, Template]
 ---
 
 # Title #
