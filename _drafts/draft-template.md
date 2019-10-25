@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Reverie - A ridiculously elegant Jekyll theme
+title: Post Template
 author: Xiang Ye
 categories: [Miscellaneous, Template]
 ---
