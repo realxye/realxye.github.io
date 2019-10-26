@@ -89,7 +89,7 @@ There are several things should be understood:
 
 ### 4. Articles
 
-- [Executable Protection - Summary]({{ site.url }}/executable-protection-summary)
-- [Executable Protection - Anti Disassembling]({{ site.baseurl }}{{ post.url }})
-- [Executable Protection - Data Obfuscation]({{ site.baseurl }}{{ post.url }})
-- [Executable Protection - Import and Export Functions]({{ site.baseurl }}{{ post.url }})
+- [Executable Protection - Summary](/executable-protection-summary/)
+- [Executable Protection - Anti Disassembling](/executable-protection-anti-disassembling/)
+- [Executable Protection - Data Obfuscation](/executable-protection-data-obfuscation/)
+- [Executable Protection - Import and Export Functions](/executable-protection-import-and-export-functions/})
