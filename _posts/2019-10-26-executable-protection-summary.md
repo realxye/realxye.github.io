@@ -3,6 +3,7 @@ layout: post
 title: Executable Protection - Summary
 author: Xiang Ye
 description: The way how to protect executable
+permalink: /executable-protection-summary/
 categories: [Reverse Engineering]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  Get Started
 author: Xiang Ye
+permalink: /get-started/
 categories: [Miscellaneous, Memo]
 ---
 
