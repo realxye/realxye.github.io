@@ -16,20 +16,30 @@ I took some nice photos:
 
 
     The moon
+
 ![The Moon](/images/20190913-mission-peak-middle-autumn-night/moon.jpg)
 
 
     South Bay
-![The Moon](/images/20190913-mission-peak-middle-autumn-night/southbay.jpg)
+
+![South Bay](/images/20190913-mission-peak-middle-autumn-night/southbay.jpg)
+
 
     On Top Of Peak
-![The Moon](/images/20190913-mission-peak-middle-autumn-night/tothepeak.jpg)
+
+![On Top Of Peak](/images/20190913-mission-peak-middle-autumn-night/tothepeak.jpg)
+
 
     Sunset
-![The Moon](/images/20190913-mission-peak-middle-autumn-night/sunset0.jpg)
+
+![Sunset](/images/20190913-mission-peak-middle-autumn-night/sunset0.jpg)
+
 
     Sunset
-![The Moon](/images/20190913-mission-peak-middle-autumn-night/sunset1.jpg)
+
+![Sunset](/images/20190913-mission-peak-middle-autumn-night/sunset1.jpg)
+
 
     Sunset
-![The Moon](/images/20190913-mission-peak-middle-autumn-night/sunset2.jpg)
+
+![Sunset](/images/20190913-mission-peak-middle-autumn-night/sunset2.jpg)
