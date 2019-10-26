@@ -8,9 +8,9 @@ categories: [Photography]
 tags: [missionpeak, hiking, middleautumn, moon]
 ---
 
-Mission Peak might be the best hiking place for people who lives in east or south bay (in Bay Area) --- it is close, not too high and not too low.
+Mission Peak might be the best hiking place for people who live in east or south bay (in Bay Area) --- it is close, not too high and not too low.
 
-And it is a perfect place to take picture of the moon -- at middle autumn's night.
+And it is a perfect place to take pictures of the moon -- at middle autumn's night.
 
 I took some nice photos:
 
