@@ -36,7 +36,7 @@ I guess game companies can feel the pain most. There are so many exploits and bo
 
 ### 2. What To Protect Against?
 
-    There are many methods can be used to crack executable, Here I only discuss those work on executable directly. Others (like network traffic monitoring, etc.) are not in scope.
+There are many methods can be used to crack executable, Here I only discuss those work on executable directly. Others (like network traffic monitoring, etc.) are not in scope.
 
 #### 2.1 Static Analysis
 
