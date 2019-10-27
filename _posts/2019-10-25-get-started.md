@@ -17,8 +17,9 @@ Themes can be found in many places like [jekyllthemes.org](http://jekyllthemes.o
 Consider following things when you choose a theme:
 
 - Do you like it?
+- Does it support mobile view?
 - Do you need side column for categories, posts list, etc?
-- Do you need features like search, analytics,, etc?
+- Do you need features like search, analytics, etc?
 - Do you need to support comments?
 
 ### **Step 2:** Apply the theme
