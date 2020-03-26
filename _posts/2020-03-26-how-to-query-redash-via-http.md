@@ -8,7 +8,6 @@ categories: [Database]
 tags: [database, redash]
 ---
 
-# How To Query Redash via HTTP #
 
 Redash becomes popular now, but it doesn't support REST APIs well. This post demonstrates a simple way to query redash via http.
 
