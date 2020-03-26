@@ -29,7 +29,7 @@ Click menu `"Create->Query"` to create a new query, and you can always modify it
 
 ![Create Query](/images/20200326-how-to-query-redash-via-http/create-query.png)
 
-NOTE: SQL accepts parameters which is wrapped by `"{{"` and `"}}"`, in this example, two parameters are being used: `"start"` and `"limit"`.
+NOTE: SQL accepts parameters which is wrapped by `"double curly braces"`, in this example, two parameters are being used: `"start"` and `"limit"`.
 
 ## Client Side ##
 
