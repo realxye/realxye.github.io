@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Executable Protection - Data Obfuscation
-author: Xiang Ye
+author: Gavin Y.
 description: The way how to protect readonly data
 categories: [Reverse Engineering]
 ---

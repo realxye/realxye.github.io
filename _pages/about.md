@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Welcome To My Blog
 
-This is Xiang's blog which records techinical ideas, works and stories ...
+This is Gavin's blog which records techinical ideas, works and stories ...
 
 #### *About Me*
 

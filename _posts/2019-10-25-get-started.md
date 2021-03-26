@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Get Started
-author: Xiang Ye
+author: Gavin Y.
 permalink: /get-started/
 categories: [Miscellaneous, Memo]
 ---

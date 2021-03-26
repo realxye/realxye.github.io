@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Query Redash via HTTP
-author: Xiang Ye
+author: Gavin Y.
 description:
 permalink: /:title/
 categories: [Database]

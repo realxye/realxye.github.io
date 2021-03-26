@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vlog Mission Peak and Coyote Hills
-author: Xiang Ye
+author: Gavin Y.
 description:
 permalink: /:title/
 categories: [VLOG]

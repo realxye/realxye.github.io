@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mission Peak Middle Autumn Night
-author: Xiang Ye
+author: Gavin Y.
 description:
 permalink: /:title/
 categories: [Photography]

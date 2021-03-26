@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Executable Protection - Summary
-author: Xiang Ye
+author: Gavin Y.
 description: The way how to protect executable
 permalink: /executable-protection-summary/
 categories: [Reverse Engineering]

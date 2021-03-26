@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Setup Git Server On Synology Nas
-author: Xiang Ye
+author: Gavin Y.
 description:
 permalink: /:title/
 categories: [Howto]
