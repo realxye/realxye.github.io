@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post Template
-author: Xiang Ye
+author: Gavin Y.
 description:
 permalink: /:title/
 categories: [Reverse Engineering, Programming, Database, Security, Memo, Howto, Photography, Travel, Miscellaneous, VLOG, Template]
