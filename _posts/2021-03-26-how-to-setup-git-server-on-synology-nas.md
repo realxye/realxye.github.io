@@ -28,7 +28,7 @@ The first step is to install Git Server Package.
 
 ### Create Git Folder ###
 
-This step is optional. You can use your main user to do this work.
+This step is to create root folder for git repos.
 
 - Connect to NAS via SSH
 - Create git root folder: `sudo mkdir /volume1/git`
@@ -44,16 +44,21 @@ This step is optional. You can use your main user to do this work.
 
 #### Ensure Git Server Show Existing Users ####
 
-In my case, git server complains that I haven't created any user although there are several users. This can be fixed by changing ile `"SYNO.Git.lib"`.
+In my case, git server complains that I haven't created any user although there are several users. This can be fixed by changing file `"SYNO.Git.lib"`.
 
 - Stop `Git Server`
 - Connect to NAS via SSH
-- Edit `"SYNO.Git.lib"` by exec command `sudo vi /var/packages/Git/target/webapi/SYNO.Git.lib`.
+- Open file `"SYNO.Git.lib"`
+
+```bash
+sudo vi /var/packages/Git/target/webapi/SYNO.Git.lib
+```
+
 - Look for **"appPriv": "SYNO.SDS.GIT.Instance"**
 - Remove the text between the quotes: **"appPriv": ""**
 - Save and quit
 - Run `Git Server` again
-- Oen `Git Server` to ensure all users appear in git Server's Web GUI
+- Open `Git Server` to ensure all users appear in git Server's Web GUI
 
 #### Setup New Repo ####
 
