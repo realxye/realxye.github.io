@@ -30,10 +30,10 @@ Most of themes are on github.com. So just simply go to its repo (I use **[Reveri
 
 For example,
 - Press the **`"Use this template"`** button
-![Use Template](/images/20191025-get-started/github-use-template.png)
+![Use Template](/images/20191025-get-started/github-use-template.png){:target="_blank"}
 
 - Fill new repo's information and press **`"Create repository from template"`** button
-![Use Template](/images/20191025-get-started/github-create-repo-from-template.png)
+![Use Template](/images/20191025-get-started/github-create-repo-from-template.png){:target="_blank"}
 
 #### *Second option: download files and update your repo directly*
 
@@ -51,7 +51,7 @@ After step #2 you should be able to see your pages (same as the template). Next 
 
 **Don't spend too much time on this, theme is never the purpose**
 
-![Customize](/images/20191025-get-started/customize.png)
+![Customize](/images/20191025-get-started/customize.png){:target="_blank"}
 
 ### **Step 4:** Post
 
