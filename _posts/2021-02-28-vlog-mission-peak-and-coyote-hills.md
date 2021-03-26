@@ -4,8 +4,8 @@ title: Vlog Mission Peak and Coyote Hills
 author: Xiang Ye
 description:
 permalink: /:title/
-categories: [Reverse Engineering, Programming, Database, Security, Memo, Howto, Photography, Travel, Miscellaneous, Template]
-tags: [tag0, tag1]
+categories: [VLOG]
+tags: [vlog, mission peak, coyote hills]
 ---
 
 Went to Mission Peak and Coyote Hills with family and firends.
