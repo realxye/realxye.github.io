@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vlog Davenport Beach
+title: Vlog - Davenport Beach
 author: Gavin Y.
 description:
 permalink: /:title/

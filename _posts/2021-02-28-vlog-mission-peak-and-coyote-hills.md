@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vlog Mission Peak and Coyote Hills
+title: Vlog - Mission Peak and Coyote Hills
 author: Gavin Y.
 description:
 permalink: /:title/
