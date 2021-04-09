@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vlog Hawaii Maui P1 Hana Road
+title: Vlog: Hawaii Maui P1 - Hana Road
 author: Gavin Y.
 description:
 permalink: /:title/
