@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vlog Hawaii Maui P3 - Snorkeling at Molokini
+title: Vlog Hawaii P4 - Oahu
 author: Gavin Y.
 description:
 permalink: /:title/
