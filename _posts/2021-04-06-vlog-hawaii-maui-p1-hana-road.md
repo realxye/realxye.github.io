@@ -5,7 +5,7 @@ author: Gavin Y.
 description:
 permalink: /:title/
 categories: [VLOG]
-tags: [vlog, Hawaii, Maui, Hana Road]
+tags: [vlog, Hawaii, Maui, Road To Hana]
 ---
 
 Hawaii might be the most beautiful place I have ever been.

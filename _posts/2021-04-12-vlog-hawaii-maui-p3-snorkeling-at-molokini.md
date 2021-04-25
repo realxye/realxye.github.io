@@ -5,7 +5,7 @@ author: Gavin Y.
 description:
 permalink: /:title/
 categories: [VLOG]
-tags: [vlog, Hawaii, Maui, Hana Road]
+tags: [vlog, Hawaii, Maui, Molokini, Snorkeling]
 ---
 
 Snorkeling at Molokini is probably one of the most anticipated projects on Maui. We made a reservation two months ago before this trip.

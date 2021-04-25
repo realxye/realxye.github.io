@@ -5,7 +5,7 @@ author: Gavin Y.
 description:
 permalink: /:title/
 categories: [VLOG]
-tags: [vlog, Hawaii, Maui, Hana Road, Haleakala]
+tags: [vlog, Hawaii, Maui, Back Road To Hana, Haleakala]
 ---
 
 Got up early for the sunrise. And then headed towards Haleakalā along the Back Road to Hana.

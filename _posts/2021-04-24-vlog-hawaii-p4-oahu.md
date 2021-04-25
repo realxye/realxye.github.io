@@ -5,7 +5,7 @@ author: Gavin Y.
 description:
 permalink: /:title/
 categories: [VLOG]
-tags: [vlog, Hawaii, Maui, Hana Road]
+tags: [vlog, Hawaii, Oahu, Waikiki Beach, Polynesian Cultural Center]
 ---
 
 Spent last 4 days on Oahu and only found it's too short.
